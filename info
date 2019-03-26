@@ -1,0 +1,3 @@
+this conversion script is for dataset avilable on https://figshare.com/articles/brain_tumor_dataset/1512427
+mat structure to any .npy(recommended) or csv(not recommended) so that u can handel data easily in python
+btw .npy is numpy save format for numbers(it can save u space using 8 bit of each number in case of  pictorial data)
